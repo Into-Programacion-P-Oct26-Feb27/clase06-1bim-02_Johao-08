@@ -18,6 +18,7 @@ public class Ejemplo01 {
         //      0123456
         char letra = pais.charAt(0);
         System.out.printf("%s\n", letra);
+                
         
     }
 }
