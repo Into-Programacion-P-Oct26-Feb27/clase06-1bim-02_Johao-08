@@ -45,3 +45,7 @@ public class Ejemplo03 {
         
     }
 }
+/* sirve para crear cadenas de texto con un formato especifico o sea combinando
+texto fijo con variables o valores numericos. sin concatenacion y guardando datos 
+progresivamente
+*/
