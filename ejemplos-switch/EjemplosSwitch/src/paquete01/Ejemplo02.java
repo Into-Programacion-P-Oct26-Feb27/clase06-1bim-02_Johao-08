@@ -34,6 +34,7 @@ public class Ejemplo02 {
         System.out.println("Ingrese el número de día de la semana");
         int numeroDia = entrada.nextInt();
 
+        
         switch (numeroDia) {
             case 1:
                 System.out.printf("Día %d es %s\n", numeroDia, 

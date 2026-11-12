@@ -33,7 +33,7 @@ public class Ejemplo011 {
                 System.out.printf("%s es el segundo día "
                         + "de la semana", cadena);
                 break;
-            case "Miercoles":
+            case "miercoles":
                 System.out.printf("%s es el tercer dia"
                         + "de la semana", cadena);
                 break;
